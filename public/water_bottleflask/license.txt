@@ -1,0 +1,11 @@
+Model Information:
+* title:	Water Bottle/Flask
+* source:	https://sketchfab.com/3d-models/water-bottleflask-da564f6e99d244508d8ef3401c1204aa
+* author:	hipoojan (https://sketchfab.com/hipoojan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Water Bottle/Flask" (https://sketchfab.com/3d-models/water-bottleflask-da564f6e99d244508d8ef3401c1204aa) by hipoojan (https://sketchfab.com/hipoojan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
